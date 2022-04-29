@@ -1,10 +1,37 @@
 Paper:
-    ☐ Create Google Doc @today @critical
-    ☐ Write dataset ideas from papers @high
-    ☐ Check what synthetic dataset are used in structural breaks @high
+    ✔ Write dataset ideas from papers @high @done(22-04-28 19:05)
+    ✔ Check what synthetic dataset are used in structural breaks @high @done(22-04-29 08:09)
+    ✔ Add plots where an old ml model has bad predictions after structural break @done(22-04-29 08:09)
 
 Code:
     ☐ Create synthetic dataset @low
     ☐ Check the code @low
     ☐ Run the code @low
     ☐ Run the code on my dataset
+    ☐ Dynamic programming on the number of splits?
+    ☐ MP @https://matrixprofile.org/, @https://stumpy.readthedocs.io/en/latest/Tutorial_The_Matrix_Profile.html, @https://matrixprofile.docs.matrixprofile.org/_modules/matrixprofile/algorithms/stomp.html
+
+References:
+    ✔ Page 85, good *intro* @https://chaos.phys.msu.ru/loskutov/PDF/Lectures_time_series_analysis.pdf @done(22-04-26 22:01)
+    ✔ Good slides + pictures, metrics: accuracy/roc_auc, good *intro* @https://www.statmod.ru/_diploma/2019m/13m_02_merzlyakov.pdf @done(22-04-26 22:06)
+    ✔ Simulated data + pictures (p. 16) @https://www.ruhr-uni-bochum.de/imperia/md/content/mathematik3/publications/breakpoint_website.pdf @done(22-04-26 22:10)
+    ✔ Metrics (p. 5), good data, Turing Change Point Dataset, @https://arxiv.org/pdf/2003.06222.pdf, @https://github.com/alan-turing-institute/TCPD @done(22-04-26 22:13)
+    ✔ xtbreak, datasets, plots, method @https://arxiv.org/pdf/2110.14550.pdf, @https://www.stata.com/meeting/germany21/slides/Germany21_Ditzen.pdf, @https://github.com/JanDitzen/xtbreak @done(22-04-27 23:41)
+    ✔ MP plots, definitions @https://www.cs.ucr.edu/~eamonn/MatrixProfile.html, @https://www.cs.ucr.edu/~eamonn/100_Time_Series_Data_Mining_Questions__with_Answers.pdf, @done(22-04-28 00:04)
+    ✔ Good plots + econometric models @http://www.stat.columbia.edu/~rdavis/lectures/Cyprus2_04.pdf @done(22-04-27 23:54)
+    ✔ Econometric models @https://www.stata.com/features/overview/structural-breaks/ @done(22-04-27 23:53)
+    ✔ Good intro + econometrics @https://escholarship.org/uc/item/0gx089z4 @done(22-04-27 23:53)
+    ✔ Good intro + econometrics @https://www.researchgate.net/publication/336699358_Tests_for_Structural_Breaks_in_Time_Series_Analysis_A_Review_of_Recent_Development @done(22-04-27 23:50)
+    ✔ Econometrics + plots @https://www.aptech.com/structural-breaks/ @done(22-04-27 23:46)
+    ☐ MP @https://www.cs.ucr.edu/~eamonn/MatrixProfile.html, @https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf, @https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf
+    ☐ TODO: add embedding papers
+    ☐ time2vec @https://ojus1.github.io/posts/time2vec/
+    ☐ @https://www.pinecone.io/
+
+Backlog:
+    ☐ Number of intervals @https://keldysh.ru/papers/2013/prep2013_17.pdf
+    ☐ Cool plot in js @https://www.aptech.com/structural-breaks/
+
+Archive:
+  ✔ Skim through papers and get a list of papers with useful info from them @done(22-04-25 19:51) @project(Paper)
+  ✔ Create Google Doc @today @critical @done(22-04-20 22:22) @project(Paper)
